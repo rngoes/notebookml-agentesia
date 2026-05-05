@@ -3,8 +3,9 @@
 ## Contexto e Objetivos: 
 O Objetivo deste caderno é para criar um caderno para aprender a trabalhar e criar agente de IA com Copilot Studio
 
-##Curadoria de Fontes:
-https://www.youtube.com/watch?v=eSmFibgowhM
+## Curadoria de Fontes:
+[https://www.youtube.com/watch?v=eSmFibgowhM](https://www.youtube.com/watch?v=eSmFibgowhM)
+
 https://www.youtube.com/watch?v=Je4BbVut6ys
 https://www.youtube.com/watch?v=uEzc2owQmPA
 https://learn.microsoft.com/pt-br/microsoft-copilot-studio/fundamentals-get-started
